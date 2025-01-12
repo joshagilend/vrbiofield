@@ -394,5 +394,6 @@ def ensureFilesExporter():
 ensureFilesExporter();
 
 print("Done.");
+print("Created by Josh and Lewey. Best Friends Forever. VR & Unity For Life. Marvel Studios. © 2024. joshstroud.com. lewcid.com.")
 
 
